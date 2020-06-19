@@ -14,19 +14,19 @@ This repo has the implementations of common data structures and algorithms.
 - BubbleSort
 
 ## Non comparison based sorting algorithms:
-Counting Sort
-Radix Sort
+- Counting Sort
+- Radix Sort
 
 # Graph Algorithms
-Breadth First Search(BFS) Algorithm 
-Depth First Search(DFS) Algorithm
-Topological Sort Algorithm
-BellmanFord Algorithm
-Directed Acyclic Graph Shortest Path Algorithm
+- Breadth First Search(BFS) Algorithm 
+- Depth First Search(DFS) Algorithm
+- Topological Sort Algorithm
+- BellmanFord Algorithm
+- Directed Acyclic Graph Shortest Path Algorithm
 
 # Binary Search Trees(BST)
-AVL Tree
+- AVL Tree
 
 # Dynamic Programming
 
-Memoized Fibonacci Algorithm
+- Memoized Fibonacci Algorithm
